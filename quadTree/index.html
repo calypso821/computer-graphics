@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RG DN3</title>
+</head>
+<body>
+    <canvas id="canvas" width="600" height="600"style="background:black;"></canvas>
+    <div id="control">
+        
+        <p>Num. of objects: <input id="obj_in" type = "text" size="5" required> <button id="btn_apply" >Apply</button></p>
+        <button id="btn_draw" >Draw quadtree</button>
+        <p>Objects: <span id="obj_cnt">0</span></p>
+        <p>Collisions: <span id="col_cnt">0</span></p>
+        <p>QuadTree (collision check): <span id="qt_cnt">0</span></p>
+        <p>BruteForce (collision check): <span id="bf_cnt">0</span></p>
+        <p id="id1"></p>
+    </div>
+    <script type="module" src="main.mjs"></script>
+</body>
+</html>
