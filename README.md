@@ -2,4 +2,4 @@
 ## Bézier curve
 - drawing Bézier curves with Bernstein polynomial
 ## QuadTree collision
-- detection collisions with QuadTree structure
+- collision detection with QuadTree structure
