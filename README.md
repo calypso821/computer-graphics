@@ -15,8 +15,8 @@ A collection of interactive computer graphics implementations.
 
 <img src="resources/500_objects.gif" width="500"/>
 <p>
-    <img src="resources/50_objects.gif" width="300"/>
-    <img src="resources/200_objects.gif" width="300"/>
+    <img src="resources/50_objects.gif" width="350"/>
+    <img src="resources/200_objects.gif" width="350"/>
 </p>
 
 ### Bézier Curve Editor
@@ -28,7 +28,7 @@ A collection of interactive computer graphics implementations.
   - Real-time curve updates
   - Support for multiple splines with different colors
 
-<img src="resources/bezier_curve.png" width="600"/>
+<img src="resources/bezier_curve.png" width="700"/>
 
 ## Implementation Details
 - Written in vanilla JavaScript with HTML Canvas
